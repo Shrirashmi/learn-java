@@ -1,1 +1,3 @@
-class Admin1{}
+class Admin1{
+	public void m(){}
+}
